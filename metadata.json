@@ -1,0 +1,10 @@
+{
+  "requestFramePermissions": [
+    "microphone",
+    "camera",
+    "geolocation"
+  ],
+  "name": "Remix: Remix: Copey of WormGPT [JS-2.0]",
+  "description": "",
+  "majorCapabilities": []
+}
